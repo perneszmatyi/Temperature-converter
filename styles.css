@@ -31,3 +31,9 @@ input::placeholder, input {
     color: #555;
     font-size: 6rem;
 }
+
+body {
+    font-family: sans-serif;
+}
+
+
